@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sutageiza0 most know me as Suta or Gaze
+- 👀 I’m interested in: back end coding
+- 🌱 I’m currently learning: python coding
+- 📫 How to reach me: discord = 'sutageiza#6666'
