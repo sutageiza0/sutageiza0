@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @sutageiza0 most know me as Suta or Gaze
-- 📫 How to reach me: discord = 'G A Z E#6666'
+- 👋 Hi, I’m @sutageiza0 most know me as Gaze
+- 📫 How to reach me: discord = 'g4z3'
+- 🎮 3D envioronment/level artist
+- 📚 Working With/Learning Python, Blender3D & Unity
