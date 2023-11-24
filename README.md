@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sutageiza0 most know me as Gaze
 - 📫 How to reach me: discord = 'g4z3'
 - 🎮 3D envioronment/level artist
-- 📚 Working With/Learning Python, Blender3D & Unity
+- 📚 Working With/Learning Python, C#, Blender3D & Unity
