@@ -11,7 +11,8 @@
 
 Questions? Wanna chat? Let's do it on **Discord**:
 
-👉 **Discord:** g4z3
+👉 **Personal Discord:** g4z3
+👉 **Public Server:** [Team Error Sec](https://discord.gg/ZPy7Ddxad8)
 
 ---
 
