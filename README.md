@@ -4,8 +4,8 @@
 
 - 👨‍💻 I'm all about **Python** and doing cool stuff with it.
 - 🎮 Working as a **Game Dev** / **Environment Artist**.
-- 🌱 Currently learning about **AI** and **Machine Learning**.
-- 🔒 Studying to get a job in **CyberSecurity**.
+- 🌱 Currently learning about **UE5 Modding**
+- ✨ Creator of the **Pigeon Launcher**, the mod loader/launcher for **Rooftops & Alleys**!
 
 ## Hit Me Up
 
@@ -16,4 +16,4 @@ Questions? Wanna chat? Let's do it on **Discord**:
 
 ---
 
-**Happy Hacking!** 💻🤙
+**Happy Hacking & Coding!** 💻🤙
