@@ -5,7 +5,7 @@
 - 👨‍💻 I'm all about **Python** and doing cool stuff with it.
 - 🎮 Working as a **Game Dev** / **Environment Artist**.
 - ✨ Creator of the **Pigeon Launcher**, the mod loader/launcher for **Rooftops & Alleys**!
-- 🐞 Creator of the CRYPTCADA Discord bot
+- 🐞 Creator of the **CRYPTCADA** Discord bot
 
 ## Hit Me Up
 
